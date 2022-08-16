@@ -21,9 +21,15 @@ footer {
     font-weight: bold;
 }
 
+header {
+    display: inline;
+}
+
 nav {
     background-color: #00a2c6;
     padding: 5px;
+    position: sticky;
+    top: 0;
 }
 
 nav a {
